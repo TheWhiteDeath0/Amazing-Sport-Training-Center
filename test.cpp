@@ -8,6 +8,8 @@ int  main(){
     cin >>h>>z;
     int x = h+z;
     cout <<"The sum of the Numbers: "<<x;
+    int y = h*z;
+    cout <<"The multipale of the numbers is "<<y;
     
     
 }
